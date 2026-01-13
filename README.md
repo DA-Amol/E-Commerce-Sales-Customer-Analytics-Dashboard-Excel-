@@ -74,3 +74,36 @@ To provide business stakeholders with a **single-page interactive dashboard** th
 ---
 
 ## 📁 Project Structure
+📂 E-Commerce-Sales-Customer-Analytics-Dashboard-Excel
+├── 📊 Ecom_Dashboard.xlsx
+├── 🖼️ Ecom_Dashboard.JPG
+└── 📄 README.md
+
+---
+
+## 🚀 How to Use
+1. Download the Excel file
+2. Enable editing & content
+3. Use slicers to filter by:
+   - Order Mode
+   - Gender
+4. Explore insights dynamically
+
+---
+
+## 👤 Author
+**Amol Thakur**  
+Business Data Analyst | MBA (Business Analytics)  
+📍 Pune, India  
+
+🔗 LinkedIn: https://www.linkedin.com/in/analyst-amolthakur/  
+
+---
+
+## 📌 Note
+This project is created for **learning, portfolio, and demonstration purposes** using sample e-commerce data.
+
+---
+
+⭐ If you found this project useful, feel free to **star the repository**!
+
