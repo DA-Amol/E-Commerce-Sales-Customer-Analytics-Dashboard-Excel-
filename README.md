@@ -74,10 +74,12 @@ To provide business stakeholders with a **single-page interactive dashboard** th
 ---
 
 ## 📁 Project Structure
-📂 E-Commerce-Sales-Customer-Analytics-Dashboard-Excel
+
+E-Commerce-Sales-Customer-Analytics-Dashboard-Excel/
 ├── 📊 E-commerce Analytics.xlsx
 ├── 🖼️ Ecom_Dashboard.JPG
 └── 📄 README.md
+
 
 ---
 
